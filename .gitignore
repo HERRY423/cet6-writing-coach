@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Build artifacts
+*.skill
+*.zip
+dist/
+build/
+
+# Logs / scratch
+*.log
+.cache/
+scratch/
